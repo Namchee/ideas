@@ -12,4 +12,6 @@ This repository is inspired by [Vue's RFC repository](https://github.com/vuejs/r
 
 ## Drafts
 
-Drafts are ideas that haven't been planned and implemented yet. Basically, it is just a random idea that pops out of nowhere or suggested by a friend to me.
+Drafts are ideas that haven't been planned and or doesn't have concrete implementation yet. Drafts may come from random idea that pops out of nowhere, my daily development rants, and suggested by a friend.
+
+More info at [drafts] folder.
