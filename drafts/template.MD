@@ -17,6 +17,10 @@ Put a reason about why should this idea be implemented. Yes, `learning` is a val
 Put tech stacks here, both front end and back end technologies.
 If possible, put the standards (code style, etc) too.
 
+## Current Progress
+
+Put the project progress here. Preferably in markdown unordered list format.
+
 ## Rejection Reason
 
 Put a reason why this idea is rejected (if it's rejected)
