@@ -10,3 +10,14 @@ Drafts has 4 cycles:
 - In Progress. Currently Work In Progress some other repository. **May be rejected in the future**.
 - Finished. Ideas that have concrete implementation and (mostly) finished.
 - Rejected. Ideas that have been dropped due to various reason. The reason is stated on the markdown file.
+
+Drafts are submitted by a markdown file in the [drafts folder](drafts) (this VERY folder).
+
+A well formatted must follow these following convention:
+
+1. Follows `XXX-<idea_name>.MD` naming schema, where `XXX` is the number starting from zero (`000`).
+2. Follows the [template](template.MD) formatting.
+
+After a draft has been submitted, any kind of changes must be done directly into the corresponding markdown file.
+
+**DO NOT DELETE DRAFT, EVEN IF IT'S REJECTED!**. Any drafts may be usefu for future reference.

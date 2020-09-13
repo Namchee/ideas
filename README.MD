@@ -1,8 +1,6 @@
 # Ideas
 
-This is a curated list of [Namchee's](https://github.com/Namchee) ideas about various stuff related to programming and developments.
-
-It allows you (and me, of course) to keep track about my personal goals and learning activities ✨.
+This is a curated list of [Namchee's](https://github.com/Namchee) ideas about various stuff related to programming and developments. It allows you (and me, of course) to keep track about my personal goals and learning activities ✨.
 
 This repository is inspired by [Vue's RFC repository](https://github.com/vuejs/rfcs).
 
@@ -14,4 +12,4 @@ This repository is inspired by [Vue's RFC repository](https://github.com/vuejs/r
 
 Drafts are ideas that haven't been planned and or doesn't have concrete implementation yet. Drafts may come from random idea that pops out of nowhere, my daily development rants, and suggested by a friend.
 
-More info at [drafts] folder.
+More info at [drafts folder](drafts).
