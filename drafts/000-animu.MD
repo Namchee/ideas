@@ -1,7 +1,7 @@
 # Animu
 
 - Submitted At: 2020-09-13
-- Status: Pending
+- Status: ~~Pending~~ In Progress
 - Repository: -
 
 ## Summary
@@ -14,12 +14,16 @@ Animu is a desktop personal assistant to help you keep track of your favorite an
 
 This idea is proposed by a friend of mine.
 
+It also acts as a leeway to learn about ServiceWorkers
+
 ## Stack
 
 Definitely a fully front-end app. The notification part can be done with [this](https://developer.mozilla.org/en-US/docs/Web/API/notification).
+
+> UPDATE 10/4/2020: This feature is only supported in modern browsers!
 
 Still debating between Vue or Svelte.
 
 ## Current Progress
 
-- UI Design
+- UI Design, you can see the progress [here](https://www.figma.com/file/JjrSY8LAea8gyyKPqVBMh8/animu?node-id=0%3A1)
