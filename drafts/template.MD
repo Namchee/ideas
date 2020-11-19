@@ -1,6 +1,6 @@
 # Idea Name
 
-- Submitted At: (fill it in with submit date in YYYY-MM-DD)
+- Submitted At: (fill it in with submit date in YYYY-MM-DD, must be on GMT+7 date)
 - Status: Pending, In Progress, Finished, Rejected
 - Repository: (fill it repository link)
 
