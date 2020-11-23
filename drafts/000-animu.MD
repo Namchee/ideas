@@ -1,8 +1,9 @@
 # Animu
 
 - Submitted At: 2020-09-13
-- Status: ~~Pending~~ In Progress
-- Repository: -
+- Updated At: 2020-11-23
+- Status: Pending
+- Repository: _private for now_
 
 ## Summary
 
@@ -22,8 +23,9 @@ Definitely a fully front-end app. The notification part can be done with [this](
 
 > UPDATE 10/4/2020: This feature is only supported in modern browsers!
 
-Still debating between Vue or Svelte.
+Still debating between Vue or Svelte. In the end, I'll pick Svelte.
 
 ## Current Progress
 
 - UI Design, you can see the progress [here](https://www.figma.com/file/JjrSY8LAea8gyyKPqVBMh8/animu?node-id=0%3A1)
+- Currently suspended until `svelte@next` is mature.

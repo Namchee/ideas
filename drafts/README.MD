@@ -6,7 +6,7 @@ Drafts may come from random idea that pops out of nowhere, my daily development 
 
 Drafts has 4 cycles:
 
-- Pending. Any ideas starts with this phase. Ideas that have pending status usually still lacks detail in some aspect or I'm just still thiking it over.
+- Pending. Any ideas starts with this phase. Ideas that have pending status usually still lacks detail in some aspect or I'm just still thinking it over.
 - In Progress. Currently Work In Progress some other repository. **May be rejected in the future**.
 - Finished. Ideas that have concrete implementation and (mostly) finished.
 - Rejected. Ideas that have been dropped due to various reason. The reason is stated on the markdown file.
