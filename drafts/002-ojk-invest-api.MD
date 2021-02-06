@@ -1,7 +1,7 @@
 # OJK Invest API
 
 - Submitted At: 2021-01-13
-- Updated At: 2021-02-02
+- Updated At: 2021-02-04
 - Status: Finished
 - Repository: [Link](https://github.com/Namchee/ojk-invest-api)
 

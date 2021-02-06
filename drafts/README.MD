@@ -20,4 +20,4 @@ A well formatted must follow these following convention:
 
 After a draft has been submitted, any kind of changes must be done directly into the corresponding markdown file.
 
-**DO NOT DELETE DRAFT, EVEN IF IT'S REJECTED!**. Any drafts may be usefu for future reference.
+**DO NOT DELETE DRAFT, EVEN IF IT'S REJECTED!**. Any drafts may be useful for future reference.
