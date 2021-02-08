@@ -2,8 +2,8 @@
 
 - Submitted At: 2021-02-06
 - Updated At: 2021-02-08
-- Status: In Progress
-- Repository: _private_
+- Status: ~~In Progress~~ Rejected
+- Repository: ~~_private_~~ _archived_
 
 ## Summary
 
@@ -32,3 +32,7 @@ A good ol' plain JavaScript, on Node plus TypeScript.
 - [x] Study about how CLI-based app is executed on Node.
 - [x] Determine required libraries.
 - [ ] Implement!
+
+## Rejection Reason
+
+[TypeSync](https://github.com/jeffijoe/typesync) provides the same capability. Re-invent the wheel is a bad idea.
