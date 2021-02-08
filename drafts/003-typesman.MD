@@ -1,9 +1,9 @@
 # Typesman
 
 - Submitted At: 2021-02-06
-- Updated At: 2021-02-06
-- Status: Pending
-- Repository: -
+- Updated At: 2021-02-08
+- Status: In Progress
+- Repository: _private_
 
 ## Summary
 
@@ -25,8 +25,10 @@ Unfortunately, the `@types` system is not hassle-free solution since anyone must
 
 ## Stack
 
-A good ol' plain JavaScript, on Node.
+A good ol' plain JavaScript, on Node plus TypeScript.
 
 ## Current Progress
 
-- [ ] Study about how CLI-based app is executed on Node.
+- [x] Study about how CLI-based app is executed on Node.
+- [x] Determine required libraries.
+- [ ] Implement!
