@@ -31,7 +31,7 @@ A good ol' plain JavaScript, on Node plus TypeScript.
 
 - [x] Study about how CLI-based app is executed on Node.
 - [x] Determine required libraries.
-- [ ] Implement!
+- ~~[ ] Implement!~~
 
 ## Rejection Reason
 
